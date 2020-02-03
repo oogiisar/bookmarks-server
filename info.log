@@ -1,0 +1,6 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 1234455oo5i9659 not found.","level":"error"}
+{"message":"Description is required","level":"error"}
+{"message":"Bookmark with id 4590f47e-ca74-4cad-b655-7f059f179b4b created","level":"info"}
+{"message":"Bookmark with id f2472981-14aa-4bb8-b724-bcbeb1ae8086 created","level":"info"}
+{"message":"Bookmark with id f2472981-14aa-4bb8-b724-bcbeb1ae8086 deleted.","level":"info"}
